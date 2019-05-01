@@ -38,3 +38,10 @@ from automatically updating the module. This is the preferred way.
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. 
+
+## TODO
+
+- [ ] Helm chart for LoadBalancer
+- [ ] Helm chart for API
+- [ ] Helm chart for Store Frontend
+- [ ] Helm chart for Kafka
